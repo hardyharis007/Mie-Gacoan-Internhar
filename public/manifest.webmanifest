@@ -1,0 +1,20 @@
+{
+  "name": "Mie Gacoan Indonesia – Pelopor Mie Pedas No. 1",
+  "short_name": "Mie Gacoan",
+  "description": "Menu mie pedas level 0–8, dimsum renyah, es segar kekinian, panduan lokasi outlet, dan pemesanan cepat via WhatsApp.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#DC2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

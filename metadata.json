@@ -1,0 +1,8 @@
+{
+  "name": "Mie Gacoan Indonesia",
+  "description": "Website resmi informasi menu, level pedas 0–8, harga dimsum & es kekinian, lokasi cabang, dan pemesanan Mie Gacoan Indonesia yang progresif, SEO, AEO, dan GEO friendly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

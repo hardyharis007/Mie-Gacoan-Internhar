@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# AI & Generative Engine Crawlers (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://hardyharis007.github.io/Mie-Gacoan-Internhar/sitemap.xml
+LLMs-Txt: https://hardyharis007.github.io/Mie-Gacoan-Internhar/llms.txt
